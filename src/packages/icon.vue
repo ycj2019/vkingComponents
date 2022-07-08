@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import './../style/icon'
+// import './style/icon'
 export default {
   name: 'vking-icon',
   props:{

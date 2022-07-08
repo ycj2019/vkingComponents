@@ -1,5 +1,5 @@
 // 组件入口
-import Button from './button.vue'
+import Button from './button/button.vue'
 import Icon from './icon.vue'
 
 const install = Vue => {
